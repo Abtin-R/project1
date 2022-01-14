@@ -141,6 +141,7 @@ nav ul li + li {
 
 .button:hover{
     background-color: #57c757;
+    cursor: pointer;
 }
 
 #text:hover
